@@ -1,5 +1,6 @@
 html{
   background-color: #000000;
+  text-align: center;
 }
 .mainheader{
   font-family: verdana, sans-serif;
@@ -11,4 +12,19 @@ html{
 .download{
   color: aquamarine;
   font-size: 16px;
+}
+h2{
+  font-family: verdana, sans-serif;
+  font-weight: 300px;
+  font-size: 42px;
+  color: white;
+}
+.description{
+  font-family: verdana;
+  font-size: 21px;
+  color: gray;
+}
+.copyright{
+  text-align: right;
+  color: gray;
 }
