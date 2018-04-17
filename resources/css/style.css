@@ -1,0 +1,14 @@
+html{
+  background-color: #000000;
+}
+.mainheader{
+  font-family: verdana, sans-serif;
+  font weight: normal;
+  font-size: 50px;
+  color: white;
+  align: center;
+}
+.download{
+  color: aquamarine;
+  font-size: 16px;
+}
